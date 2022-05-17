@@ -1,0 +1,22 @@
+body {
+    background: #00000;
+    margin: 0;
+    line-height: 1;
+}
+h2 {
+    font-weight: normal;
+    font-size: 25px;
+    font-family: Georgia;
+    margin: 20px;
+    color: #2c6b85;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-size: 35px;
+    color: #2c6b85;
+    font-family: Georgia;
+    font-weight: bold;
+}
+
+
