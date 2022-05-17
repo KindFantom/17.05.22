@@ -1,6 +1,5 @@
 body {
-    background: #00000;
-    margin: 0;
+    margin: 20px;
     line-height: 1;
 }
 h2 {
@@ -8,15 +7,19 @@ h2 {
     font-size: 25px;
     font-family: Georgia;
     margin: 20px;
-    color: #2c6b85;
+    color: dark;
     text-align: center;
 }
 h1 {
     text-align: center;
     font-size: 35px;
-    color: #2c6b85;
+    color: dark;
     font-family: Georgia;
     font-weight: bold;
+}
+small {
+    font-weight: bold;
+
 }
 
 
